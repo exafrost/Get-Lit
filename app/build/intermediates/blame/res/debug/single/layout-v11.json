@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/AndroidDevelopment/DrawOsc-master/app/build/intermediates/res/merged/debug/layout-v11/notification_media_action.xml",
+        "source": "/Users/AdamWhitaker-Wilson/.android/build-cache/2d89a5d6a8e184f39dc4b539743ba6eb7619a4bb/output/res/layout-v11/notification_media_action.xml"
+    },
+    {
+        "merged": "/AndroidDevelopment/DrawOsc-master/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media.xml",
+        "source": "/Users/AdamWhitaker-Wilson/.android/build-cache/2d89a5d6a8e184f39dc4b539743ba6eb7619a4bb/output/res/layout-v11/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/AndroidDevelopment/DrawOsc-master/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow.xml",
+        "source": "/Users/AdamWhitaker-Wilson/.android/build-cache/2d89a5d6a8e184f39dc4b539743ba6eb7619a4bb/output/res/layout-v11/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/AndroidDevelopment/DrawOsc-master/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
+        "source": "/Users/AdamWhitaker-Wilson/.android/build-cache/2d89a5d6a8e184f39dc4b539743ba6eb7619a4bb/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/AndroidDevelopment/DrawOsc-master/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_custom.xml",
+        "source": "/Users/AdamWhitaker-Wilson/.android/build-cache/2d89a5d6a8e184f39dc4b539743ba6eb7619a4bb/output/res/layout-v11/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/AndroidDevelopment/DrawOsc-master/app/build/intermediates/res/merged/debug/layout-v11/notification_media_cancel_action.xml",
+        "source": "/Users/AdamWhitaker-Wilson/.android/build-cache/2d89a5d6a8e184f39dc4b539743ba6eb7619a4bb/output/res/layout-v11/notification_media_cancel_action.xml"
+    }
+]

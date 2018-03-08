@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/AndroidDevelopment/DrawOsc-master/app/build/intermediates/res/merged/debug/color-v23/design_tint_password_toggle.xml",
+        "source": "/Users/AdamWhitaker-Wilson/.android/build-cache/750dfa5190998108353021bc91fbe9b78fcc9747/output/res/color-v23/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/AndroidDevelopment/DrawOsc-master/app/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
+        "source": "/Users/AdamWhitaker-Wilson/.android/build-cache/2d89a5d6a8e184f39dc4b539743ba6eb7619a4bb/output/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/AndroidDevelopment/DrawOsc-master/app/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/Users/AdamWhitaker-Wilson/.android/build-cache/2d89a5d6a8e184f39dc4b539743ba6eb7619a4bb/output/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/AndroidDevelopment/DrawOsc-master/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/Users/AdamWhitaker-Wilson/.android/build-cache/2d89a5d6a8e184f39dc4b539743ba6eb7619a4bb/output/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/AndroidDevelopment/DrawOsc-master/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_thumb.xml",
+        "source": "/Users/AdamWhitaker-Wilson/.android/build-cache/2d89a5d6a8e184f39dc4b539743ba6eb7619a4bb/output/res/color-v23/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/AndroidDevelopment/DrawOsc-master/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/Users/AdamWhitaker-Wilson/.android/build-cache/2d89a5d6a8e184f39dc4b539743ba6eb7619a4bb/output/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/AndroidDevelopment/DrawOsc-master/app/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/Users/AdamWhitaker-Wilson/.android/build-cache/2d89a5d6a8e184f39dc4b539743ba6eb7619a4bb/output/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/AndroidDevelopment/DrawOsc-master/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/AdamWhitaker-Wilson/.android/build-cache/2d89a5d6a8e184f39dc4b539743ba6eb7619a4bb/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/AndroidDevelopment/DrawOsc-master/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/Users/AdamWhitaker-Wilson/.android/build-cache/2d89a5d6a8e184f39dc4b539743ba6eb7619a4bb/output/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/AndroidDevelopment/DrawOsc-master/app/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/Users/AdamWhitaker-Wilson/.android/build-cache/2d89a5d6a8e184f39dc4b539743ba6eb7619a4bb/output/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/AndroidDevelopment/DrawOsc-master/app/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/Users/AdamWhitaker-Wilson/.android/build-cache/2d89a5d6a8e184f39dc4b539743ba6eb7619a4bb/output/res/color-v23/abc_tint_seek_thumb.xml"
+    }
+]

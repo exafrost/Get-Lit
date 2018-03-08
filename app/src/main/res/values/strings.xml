@@ -1,0 +1,50 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">DGTOSC</string>
+    <string name="connected">Connection Successful</string>
+    <string name="notConnected" tools:ignore="UnusedResources">Not Connected</string>
+    <string name="ip">IP Address:</string>
+    <string name="ipHint" tools:ignore="UnusedResources">127.0.0.1</string>
+    <string name="Port">Port:</string>
+    <string name="connect">Connect</string>
+    <string name="portHint" tools:ignore="UnusedResources">8000</string>
+    <string name="drawOr" tools:ignore="UnusedResources">Draw</string>
+    <string name="next">Next</string>
+    <string name="notConnecting" tools:ignore="UnusedResources">Not Connecting…</string>
+    <string name="instruct">Please enter IP Address and Port Number, then press connect.</string>
+    <string name="ipInvalid">Invalid IP Address or Port Number</string>
+    <string name="clear" tools:ignore="UnusedResources">Clear</string>
+    <string name="pause">Pause</string>
+    <string name="backwardForward">Backward/Forward</string>
+    <string name="backward">Backward</string>
+    <string name="forward">Forward</string>
+    <string name="loopType">Loop Type</string>
+    <string name="generateOr">Generate</string>
+
+    <string name="instructions">Notice: When you enter your port number, 3 consecutive ports are opened as well.
+    Two messages are sent for each port. Messages are sent as follows. [Port# - \"X_1\", \"Y_1\"] [Port# - \"X_2\", \"Y_2\"] [Port# +1 - \"X_3\", \"Y_3\"]
+    [Port# +1 - \"X_4\", \"Y_4\"] [Port# +2 - \"X_5\", \"Y_5\"] [Port# +2 - \"X_6\", \"Y_6\"] [Port# +3 - \"X_7\", \"Y_7\"]
+    [Port# +3 - \"X_8\", \"Y_8\"] |||DGTOSC - Trajectory Tracer Utility||| This app will allow you to draw a path
+    on the screen followed by a constant loop of that path. The 2d pixel (x,y) co-ordinates of the path are scaled
+    to cartesian coordinates with a range of [-1.0 to 1.0] and are continuously streaming via OSC(Open Sound Control) network protocol.
+    An option to send 7 symmetrical points rotated by 45 degrees clockwise is also available. The set of radio buttons on the bottom left are selectors for multiple points. The set on the bottom right is a selector that shifts all points to be relative to the selected point.
+    </string>
+    <string name="out1">[1]</string>
+    <string name="out2">[2]</string>
+    <string name="out3">[3]</string>
+    <string name="out4">[2]</string>
+    <string name="out5">[2]</string>
+    <string name="out6">[4]</string>
+    <string name="out7">[8][~][~]</string>
+    <string name="title_activity_draw2">DrawActivity2</string>
+    <string name="title_activity_generate">GenerateActivity</string>
+    <string name="id1">[1]</string>
+    <string name="id2">[2]</string>
+    <string name="id3">[3]</string>
+    <string name="id4">[4]</string>
+    <string name="id5">[5]</string>
+    <string name="id6">[6]</string>
+    <string name="id7">[7]</string>
+    <string name="id8">[8]</string>
+
+
+</resources>
